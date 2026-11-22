@@ -2,6 +2,8 @@
 
 Split shared expenses between housemates or a trip group. Record who paid and who shares each cost, see everyone's net balance, and settle up with the fewest possible payments.
 
+**Live demo:** [https://kavishtolani.github.io/fairsplit/](https://kavishtolani.github.io/fairsplit/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Balances](docs/balances.png)
 
 | Landing | Mobile |
@@ -48,3 +50,7 @@ npm run test:e2e   # Playwright smoke test (npm run e2e:install once if Chromium
 ## Future improvements
 
 - Unequal splits (percent / shares / exact), multiple groups, CSV export.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).

@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Split shared expenses and settle up with the fewest payments.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
