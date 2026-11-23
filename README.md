@@ -1,5 +1,17 @@
 # FairSplit
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="FairSplit on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="FairSplit on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="FairSplit on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Split shared expenses between housemates or a trip group. Record who paid and who shares each cost, see everyone's net balance, and settle up with the fewest possible payments.
 
 **Live demo:** [https://kavishtolani.github.io/fairsplit/](https://kavishtolani.github.io/fairsplit/) — runs entirely in your browser; demo data is fictional and labelled.
